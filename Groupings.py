@@ -53,4 +53,3 @@ BSCOE_2_6 = ["Azarcon",
 "Zoleta"]
 
 select_random_names(BSCOE_2_6)
-print("Invalid Input")
