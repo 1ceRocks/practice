@@ -8,8 +8,6 @@ def select_random_names(BSCOE_2_6):
         grouped.append(BSCOE_2_6[i:i + n])
     print(grouped)
 
-
-
 BSCOE_2_6 = ["Azarcon",							
 "Baroto",							
 "Bermundo",							
